@@ -1,0 +1,13 @@
+com/microservices/graphql/model/ProductModel.class
+com/microservices/graphql/client/ProductGrpcClient.class
+com/microservices/graphql/model/ProductModel$ProductModelBuilder.class
+com/microservices/graphql/model/OrderItemModel.class
+com/microservices/graphql/model/OrderModel$OrderModelBuilder.class
+com/microservices/graphql/client/OrderGrpcClient.class
+com/microservices/graphql/model/UserModel.class
+com/microservices/graphql/GraphqlBffApplication.class
+com/microservices/graphql/client/UserGrpcClient.class
+com/microservices/graphql/resolver/GraphQLResolver.class
+com/microservices/graphql/model/OrderModel.class
+com/microservices/graphql/model/UserModel$UserModelBuilder.class
+com/microservices/graphql/model/OrderItemModel$OrderItemModelBuilder.class

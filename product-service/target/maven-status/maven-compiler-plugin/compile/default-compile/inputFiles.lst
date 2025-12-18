@@ -1,0 +1,9 @@
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/grpc/ProductGrpcServiceImpl.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/controller/ProductRestController.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/ProductServiceApplication.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/exception/ResourceNotFoundException.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/dto/ProductDto.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/repository/ProductRepository.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/service/ProductService.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/exception/GlobalExceptionHandler.java
+/Users/mohamedaijjou/Downloads/microservices-multi-protocol/product-service/src/main/java/com/microservices/product/model/Product.java

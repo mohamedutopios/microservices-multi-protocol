@@ -1,0 +1,16 @@
+com/microservices/product/dto/ProductDto$Response$ResponseBuilder.class
+com/microservices/product/exception/GlobalExceptionHandler.class
+com/microservices/product/grpc/ProductGrpcServiceImpl.class
+com/microservices/product/model/Product$ProductBuilder.class
+com/microservices/product/dto/ProductDto.class
+com/microservices/product/ProductServiceApplication.class
+com/microservices/product/dto/ProductDto$Response.class
+com/microservices/product/controller/ProductRestController.class
+com/microservices/product/service/ProductService.class
+com/microservices/product/dto/ProductDto$CreateRequest.class
+com/microservices/product/dto/ProductDto$UpdateRequest.class
+com/microservices/product/repository/ProductRepository.class
+com/microservices/product/dto/ProductDto$UpdateRequest$UpdateRequestBuilder.class
+com/microservices/product/model/Product.class
+com/microservices/product/exception/ResourceNotFoundException.class
+com/microservices/product/dto/ProductDto$CreateRequest$CreateRequestBuilder.class

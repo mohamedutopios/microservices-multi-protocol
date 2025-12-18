@@ -1,0 +1,16 @@
+com/microservices/user/dto/UserDto$UpdateRequest.class
+com/microservices/user/exception/ResourceNotFoundException.class
+com/microservices/user/UserServiceApplication.class
+com/microservices/user/dto/UserDto$CreateRequest$CreateRequestBuilder.class
+com/microservices/user/service/UserService.class
+com/microservices/user/repository/UserRepository.class
+com/microservices/user/dto/UserDto$CreateRequest.class
+com/microservices/user/dto/UserDto.class
+com/microservices/user/model/User$UserBuilder.class
+com/microservices/user/model/User.class
+com/microservices/user/exception/GlobalExceptionHandler.class
+com/microservices/user/grpc/UserGrpcServiceImpl.class
+com/microservices/user/dto/UserDto$Response$ResponseBuilder.class
+com/microservices/user/dto/UserDto$Response.class
+com/microservices/user/controller/UserRestController.class
+com/microservices/user/dto/UserDto$UpdateRequest$UpdateRequestBuilder.class
